@@ -28,13 +28,13 @@ This project is for **educational purposes only** and **not financial advice**.
 ## Charts
 
 ### Close
-![Close](images/INFY.NS_close.png)
+![Close](../images/INFY.NS_close.png)
 
 ### Moving Averages
-![Moving Averages](images/INFY.NS_moving_averages.png)
+![Moving Averages](../images/INFY.NS_moving_averages.png)
 
 ### Returns Distribution
-![Returns Distribution](images/INFY.NS_returns_distribution.png)
+![Returns Distribution](../images/INFY.NS_returns_distribution.png)
 
 ### Volatility
-![Volatility](images/INFY.NS_volatility.png)
+![Volatility](../images/INFY.NS_volatility.png)
