@@ -1,0 +1,2 @@
+ticker,start_date,end_date,num_rows,highest_close,highest_close_date,lowest_close,lowest_close_date,mean_daily_return,std_daily_return,volatility_20_latest,max_drawdown
+INFY.NS,2023-01-02,2024-12-30,490,1999.699951171875,2024-12-13,1223.4000244140625,2023-04-20,0.0005647539986391405,0.014627380366913923,0.00986406752123569,-0.24341371402964596
